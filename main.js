@@ -69,7 +69,6 @@ var files = (function () {
     Singleton.defaultOptions = {
         "about.txt": "Hello! We are the Mars Club from Keystone Academy.\n Our mission is to evacuate Earth and go to Mars in order to avoid the problems from Earth.\nMars Club was founded in 2018 by Leo Deng and Tim Gu.\nWe thought about this idea to evacuate Earth because we read a lot articles and researched about disasters on Earth. \nWe started with four people, then more people joined our club.\nIn 2020 during the pandemic, we talked to Mr. McKenzie,our head of school about our idea.\n after we decided to make a KAP to spread our idea, \nwe planned to complete our mission in the future with 3 main steps; Spread, Prepare, and Action. \nIf you are interested, you can participate in our mission to Mars. \nWe will be appreciating this a lot!",
         "contact.txt": "marsclubofficial@163.com",
-		"getting_started.txt": "Windows:\nFirst, download the package from github,\nthen open the package and follow the instructions in the installer.\n Then, Your're DONE!",
         "downloads.txt": "Download Link for compiled version of Mars Script: (Not yet) \nDownload link for Source code: (Not yet)",
         "github.txt": "https://github.com/The-Interstellar-Programmers",
 		"version.txt": "Ver 1.0.0\nWebsite made by: Leodeng... \nMars Script C++ version made by: Leodeng... \nHave a lot of fun! :D"
